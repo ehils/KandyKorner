@@ -1,0 +1,430 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "streetName": "60299 Cleveland Circles",
+      "city": "North Adolfbury",
+      "state": "Mississippi",
+      "zipCode": 55668
+    },
+    {
+      "id": 2,
+      "streetName": "421 Guadalupe Field",
+      "city": "Calistaport",
+      "state": "West Virginia",
+      "zipCode": 96495
+    },
+    {
+      "id": 3,
+      "streetName": "8446 Witting Ranch",
+      "city": "North Tyrese",
+      "state": "Missouri",
+      "zipCode": "79645090 Sherman Garden"
+    },
+    {
+      "id": 4,
+      "streetName": "457 Rohan Centers",
+      "city": "Midwest City",
+      "state": "Iowa",
+      "zipCode": 99233
+    },
+    {
+      "id": 5,
+      "streetName": "620 O'Keefe Crescent",
+      "city": "Port Ashlyfurt",
+      "state": "Florida",
+      "zipCode": 73800
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "GoobGoob Bar",
+      "productTypeId": 1,
+      "price": 4.2
+    },
+    {
+      "id": 3,
+      "name": "Sawr Wurm",
+      "productTypeId": 2,
+      "price": 4.2
+    },
+    {
+      "id": 2,
+      "name": "Carmel Rock",
+      "productTypeId": 3,
+      "price": 4.2
+    },
+    {
+      "id": 4,
+      "name": "Super Nutty Tasty Stick",
+      "productTypeId": 5,
+      "price": 4.2
+    },
+    {
+      "id": 5,
+      "name": "Yum yum chocolate snak",
+      "productTypeId": 1,
+      "price": 4.2
+    },
+    {
+      "id": 6,
+      "name": "SUPER DELUXE CHOCOLATE EXPLOSION",
+      "productTypeId": 4
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Tammy Moonshart",
+      "locationId": 1,
+      "manager": false,
+      "fullTime": true,
+      "hourlyRate": 6.66
+    },
+    {
+      "name": "Squib Grohmb",
+      "locationId": 5,
+      "manager": true,
+      "fullTime": true,
+      "hourlyRate": "4.20",
+      "id": 2
+    },
+    {
+      "name": "Tevin, Multitoob",
+      "locationId": 1,
+      "manager": false,
+      "fullTime": true,
+      "hourlyRate": "23.56",
+      "id": 5
+    }
+  ],
+  "productTypes": [
+    {
+      "id": 1,
+      "type": "chocolate bars"
+    },
+    {
+      "id": 2,
+      "type": "sour gummies"
+    },
+    {
+      "id": 3,
+      "type": "hard candies"
+    },
+    {
+      "id": 4,
+      "type": "ice cream"
+    },
+    {
+      "id": 5,
+      "type": "nut bars"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Roy Donk",
+      "email": "badonk69@hotmail.com",
+      "address": "066 Huel Junctions"
+    },
+    {
+      "name": "Tony Cheese",
+      "address": "489 Farlesquat Avenue",
+      "email": "cheeseybreezy69@notmail.com",
+      "id": 2
+    },
+    {
+      "name": "Kelvin Klobingtown",
+      "address": "7895 Tarbles Street",
+      "email": "klobknob489409@notmail.com",
+      "id": 3
+    },
+    {
+      "name": "Rick Rococco",
+      "address": "495 Gronk Street",
+      "email": "cocobobo498@notmail.com",
+      "id": 4
+    },
+    {
+      "name": "Gorb Eh'Lohb",
+      "address": "649 Freeman Avenue",
+      "email": "botcon356@notmail.com",
+      "id": 5
+    },
+    {
+      "name": "rhueijf",
+      "address": "aosdfaisn",
+      "email": "bill@notmail.com",
+      "id": 6
+    },
+    {
+      "name": "tevin barglesmouth",
+      "address": "329 foorb lane",
+      "email": "grobgrob@notmail.com",
+      "id": 7
+    }
+  ],
+  "purchases": [
+    {
+      "id": 1,
+      "customerId": 1,
+      "productId": 1
+    },
+    {
+      "customerId": 3,
+      "productId": 3,
+      "id": 2
+    },
+    {
+      "customerId": 3,
+      "productId": 5,
+      "id": 3
+    },
+    {
+      "customerId": 3,
+      "productId": 3,
+      "id": 4
+    },
+    {
+      "customerId": 3,
+      "productId": 3,
+      "id": 5
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 6
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 7
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 8
+    },
+    {
+      "customerId": 3,
+      "productId": 3,
+      "id": 9
+    },
+    {
+      "customerId": 3,
+      "productId": 3,
+      "id": 10
+    },
+    {
+      "customerId": 3,
+      "productId": 3,
+      "id": 11
+    },
+    {
+      "customerId": 3,
+      "productId": 2,
+      "id": 12
+    },
+    {
+      "customerId": 3,
+      "productId": 2,
+      "id": 13
+    },
+    {
+      "customerId": 3,
+      "productId": 3,
+      "id": 14
+    },
+    {
+      "customerId": 3,
+      "productId": 3,
+      "id": 15
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 16
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 17
+    },
+    {
+      "customerId": 3,
+      "productId": 3,
+      "id": 18
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 19
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 20
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 21
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 22
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 23
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 24
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 25
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 26
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 27
+    },
+    {
+      "customerId": 3,
+      "productId": 3,
+      "id": 28
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 29
+    },
+    {
+      "customerId": 3,
+      "productId": 2,
+      "id": 30
+    },
+    {
+      "customerId": 2,
+      "productId": 1,
+      "id": 31
+    },
+    {
+      "customerId": 2,
+      "productId": 3,
+      "id": 32
+    },
+    {
+      "customerId": 2,
+      "productId": 5,
+      "id": 33
+    },
+    {
+      "customerId": 5,
+      "productId": 1,
+      "id": 34
+    },
+    {
+      "customerId": 1,
+      "productId": 1,
+      "id": 35
+    },
+    {
+      "customerId": 1,
+      "productId": 3,
+      "id": 36
+    },
+    {
+      "customerId": 1,
+      "productId": 5,
+      "id": 37
+    },
+    {
+      "customerId": 1,
+      "productId": 2,
+      "id": 38
+    },
+    {
+      "customerId": 1,
+      "productId": 4,
+      "id": 39
+    },
+    {
+      "customerId": 1,
+      "productId": 3,
+      "id": 40
+    },
+    {
+      "customerId": 1,
+      "productId": 1,
+      "id": 41
+    },
+    {
+      "customerId": 1,
+      "productId": 1,
+      "id": 42
+    },
+    {
+      "customerId": 1,
+      "productId": 3,
+      "id": 43
+    },
+    {
+      "customerId": 1,
+      "productId": 1,
+      "id": 44
+    },
+    {
+      "customerId": 1,
+      "productId": 1,
+      "id": 45
+    },
+    {
+      "customerId": 1,
+      "productId": 1,
+      "id": 46
+    },
+    {
+      "customerId": 1,
+      "productId": 3,
+      "id": 47
+    },
+    {
+      "customerId": 1,
+      "productId": 1,
+      "id": 48
+    },
+    {
+      "customerId": 1,
+      "productId": 1,
+      "id": 49
+    },
+    {
+      "customerId": 1,
+      "productId": 1,
+      "id": 50
+    },
+    {
+      "customerId": 1,
+      "productId": 3,
+      "id": 51
+    },
+    {
+      "customerId": 1,
+      "productId": 1,
+      "id": 52
+    }
+  ]
+}
